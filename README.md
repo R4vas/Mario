@@ -20,7 +20,7 @@ Supports hash types:
 - SHA3_512
 
 ---
-
+![tool](mario.png)
 ## Features
 
 - Command-line interface with banner.
@@ -35,8 +35,8 @@ Supports hash types:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/m4ri0.git
-cd m4ri0
+git clone https://github.com/R4vas/Mario.git
+cd Mario
 
 # Install dependencies (optional)
 pip install -r requirements.txt
