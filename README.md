@@ -39,7 +39,7 @@ git clone https://github.com/R4vas/Mario.git
 cd Mario
 
 # Install dependencies (optional)
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 # Run the tool
 python3 mario.py
