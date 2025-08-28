@@ -1,6 +1,6 @@
 # M4ri0 Hash Cracker 🔥
 
-![Super Mario](images/super-mario.png)
+![Super Mario](pics/mario.jpeg)
 *Super Mario image placeholder.*
 
 ## Description
